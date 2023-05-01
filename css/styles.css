@@ -377,6 +377,7 @@ ol {
 .customer-icon:hover,
 .customer-icon:focus {
   fill: #404bbf;
+  color: #404bbf;
 }
 
 /*========== FOOTER ==========*/
