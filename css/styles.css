@@ -346,6 +346,7 @@ ol {
 
 .customer-item {
   width: calc((100% - 120px) / 6);
+  height: 88px;
 }
 
 .customer-item:hover,
@@ -421,7 +422,10 @@ ol {
   margin-right: 120px;
 }
 
-.footer-right-side {
+.social-list-ft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 16px;
 }
 
