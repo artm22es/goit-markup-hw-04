@@ -368,6 +368,7 @@ ol {
 .customer-link:hover,
 .customer-link:focus {
   border-color: #404bbf;
+  color: #404bbf;
 }
 
 .customer-icon {
