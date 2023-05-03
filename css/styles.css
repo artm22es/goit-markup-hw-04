@@ -349,11 +349,6 @@ ol {
   height: 88px;
 }
 
-.customer-item:hover,
-.customer-item:focus {
-  border-color: #404bbf;
-}
-
 .customer-link {
   display: flex;
   width: 100%;
